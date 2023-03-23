@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Remotetools
 - 👀 I’m interested in ...becoming a back-end software engineer 
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...python, js, React GraghQL 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
